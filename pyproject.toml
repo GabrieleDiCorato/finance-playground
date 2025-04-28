@@ -1,0 +1,14 @@
+[project]
+name = "finance-playground"
+version = "0.1.0"
+description = "Learning financial analysis with Python, Yahoo Finance, and a side of sanctions."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "plotly",
+    "tariff",
+    "yfinance"
+]
