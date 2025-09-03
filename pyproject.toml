@@ -10,7 +10,7 @@ dependencies = [
     "matplotlib",
     "plotly",
     "tariff",
-    "yfinance"
+    "yfinance>=0.2.65",
 ]
 
 [tool.uv]
